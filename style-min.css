@@ -55,7 +55,6 @@ a:hover {
 .bloc .container {
     padding-left: 0;
     padding-right: 0;
-    background-attachment: fixed;  /**/
 }
 .col-sm-12 .text-center{  /*added*/ 
     text-align: center;
